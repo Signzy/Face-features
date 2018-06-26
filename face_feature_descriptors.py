@@ -1,7 +1,3 @@
-
-
-
-
 #local binary patterns
 # <script src="https://gist.github.com/absaravanan/56abdeb5aec053b986512066987f11fc.js"></script>
 
